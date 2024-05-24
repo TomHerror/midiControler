@@ -1,0 +1,18 @@
+
+SoundFont Name:     HS TB-303 
+
+Category:           Bass
+
+File Size:          991 kB
+
+Last Update:        980209 12:17:40
+
+Description:        17 different 'instruments' sampled from the Roland TB-303 analog synthesizer. This synthesizer is used a lot in 'modern' dance music / techno mostly for bass-lines and arpeggiators. The 'typical' TB-303 sound has a closing filter with plenty of resonance. 
+
+Author Name:        Thomas Hammer
+
+Author's Email:     thammer@pvv.org
+
+Author's Homepage:  http://www.pvv.org/~hammer/
+
+This soundfont was downloaded from the HammerSound SoundFont Library, http://www.pvv.org/~thammer/HammerSound/
